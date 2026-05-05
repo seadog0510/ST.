@@ -1,0 +1,13 @@
+{
+    "display_name": "Prompt Inspector 提示词诊断面板",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "version": "1.0.0",
+    "author": "for sweetheart",
+    "homePage": "",
+    "auto_update": true,
+    "js": "index.js",
+    "css": "style.css"
+}
